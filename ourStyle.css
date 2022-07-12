@@ -1,0 +1,50 @@
+Button{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+/* input{
+    position: absolute;
+    width: 100%;
+    border: 100px;
+    border-color: red;
+    margin: 200px;
+} */
+
+.regButton{
+    top: 220px;
+    left: 50px;
+    padding: 10px;
+}
+.logButton{
+    top: 220px;
+    left: 200px;
+    padding: 10px;
+}
+.aboutUsButton{
+    top: 220px;
+    left: 315px;
+    padding: 10px;
+}
+.articleButton{
+    top: 220px;
+    left: 430px;
+    padding: 10px;
+}
+.savedArticleButton{
+    top: 220px;
+    left: 565px;
+    padding: 10px;
+}
+.logoutButton{
+    top: 220px;
+    left: 1220px;
+    padding: 10px;
+}

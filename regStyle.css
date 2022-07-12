@@ -1,0 +1,96 @@
+input{
+    position: absolute;
+    border-color: black;
+    text-align: center;
+}
+
+p{
+    position: absolute;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.para, .notMatchPara{
+    left: 500px;
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    font-size: 20px;
+}
+.emailPara{
+    top: 439px;
+    left: 490px;
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+.passPara{
+    top: 478px;
+    left: 490px;
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+.conPara{
+    top: 517px;
+    left: 490px;
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+}
+
+.textField{
+    top: 420px;
+    left: 315px;
+}
+.passField{
+    top: 460px;
+    left: 315px;
+}
+.conPassField{
+    top: 500px;
+    left: 315px;
+}
+
+.validateButton{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    top: 550px;
+    left: 330px;
+    padding: 10px;
+}
+.backToMain{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    top: 550px;
+    left: 500px;
+    padding: 10px;
+}
+
+/* .registerButton{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    top: 550px;
+    left: 330px;
+    padding: 10px;
+} */
+
